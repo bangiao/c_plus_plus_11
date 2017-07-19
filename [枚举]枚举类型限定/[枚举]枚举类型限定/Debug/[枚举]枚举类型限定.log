@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\devolop\c++11\[枚举]枚举类型限定\[枚举]枚举类型限定\main.cpp(14): error C2440: “=”: 无法从“int”转换为“color”
+  d:\devolop\c++11\[枚举]枚举类型限定\[枚举]枚举类型限定\main.cpp(14): note: 转换为枚举类型要求显式转换(static_cast、C 样式转换或函数样式转换)

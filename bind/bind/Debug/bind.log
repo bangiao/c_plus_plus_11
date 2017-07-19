@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\devolop\c++11\bind\bind\源.cpp(29): warning C4101: “s2”: 未引用的局部变量
+  bind.vcxproj -> D:\devolop\C++11\bind\Debug\bind.exe
+  bind.vcxproj -> D:\devolop\C++11\bind\Debug\bind.pdb (Partial PDB)
